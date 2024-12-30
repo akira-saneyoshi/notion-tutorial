@@ -1,0 +1,16 @@
+{
+  "recommendations": [
+    "loiane.ts-extension-pack",
+    "dsznajder.es7-react-js-snippets",
+    "infeng.vscode-react-typescript",
+    "burkeholland.simple-react-snippets",
+    "oven.bun-vscode",
+    "bradlc.vscode-tailwindcss",
+    "ms-vscode.vscode-typescript-next",
+    "nextnav.nextnav",
+    "oderwat.indent-rainbow",
+    "suhelmakkad.shadcn-ui",
+    "mosapride.zenkaku",
+    "ms-vscode.makefile-tools"
+  ]
+}
