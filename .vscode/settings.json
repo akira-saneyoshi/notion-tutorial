@@ -1,0 +1,9 @@
+{
+  "chat.editor.fontFamily": "Firge Console",
+  "errorLens.fontFamily": "Firge Console",
+  "scm.inputFontFamily": "Firge Console",
+  "debug.console.fontFamily": "Firge Console",
+  "editor.inlayHints.fontFamily": "Firge Console",
+  "editor.codeLensFontFamily": "Firge Console",
+  "editor.fontFamily": "Firge Console"
+}

@@ -47,4 +47,15 @@ bun run dev
 bunx --bun shadcn@latest init
 
 bunx --bun shadcn@latest add button
+
+bun add next-themes
+
+bunx --bun shadcn@latest add dropdown-menu
+
+bun install
+
+bun add convex
+
+# convexの起動
+bun convex dev
 ```
