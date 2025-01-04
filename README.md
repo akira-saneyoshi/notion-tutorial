@@ -53,6 +53,8 @@ bun add next-themes
 bunx --bun shadcn@latest add dropdown-menu
 bunx --bun shadcn@latest add avatar
 bunx --bun shadcn@latest add skeleton
+bunx --bun shadcn@latest add popover
+bunx --bun shadcn@latest add input
 
 bun install
 
