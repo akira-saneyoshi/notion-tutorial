@@ -55,10 +55,15 @@ bunx --bun shadcn@latest add avatar
 bunx --bun shadcn@latest add skeleton
 bunx --bun shadcn@latest add popover
 bunx --bun shadcn@latest add input
+bunx --bun shadcn@latest add alert-dialog
+bunx --bun shadcn@latest add command
 
 bun install
 
 bun add convex
+bun add usehooks-ts
+bun add sonner
+bun add zustand
 
 # convexの起動
 bun convex dev
