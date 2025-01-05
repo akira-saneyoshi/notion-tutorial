@@ -65,6 +65,8 @@ bun add convex
 bun add usehooks-ts
 bun add sonner
 bun add zustand
+bun add emoji-picker-react
+bun add react-textarea-autosize
 
 # convexの起動
 bun convex dev
