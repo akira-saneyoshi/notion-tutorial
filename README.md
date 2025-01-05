@@ -57,6 +57,7 @@ bunx --bun shadcn@latest add popover
 bunx --bun shadcn@latest add input
 bunx --bun shadcn@latest add alert-dialog
 bunx --bun shadcn@latest add command
+bunx --bun shadcn@latest add label
 
 bun install
 
