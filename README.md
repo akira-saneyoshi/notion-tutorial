@@ -67,6 +67,8 @@ bun add sonner
 bun add zustand
 bun add emoji-picker-react
 bun add react-textarea-autosize
+bun add @edgestore/server @edgestore/react zod
+bun add tailwind-merge react-dropzone lucide-react
 
 # convexの起動
 bun convex dev
